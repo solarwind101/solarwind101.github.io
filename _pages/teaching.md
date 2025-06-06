@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: The list of courses for which I have worked as a TA along with assignments that I had prepared.
 nav: true
 nav_order: 6

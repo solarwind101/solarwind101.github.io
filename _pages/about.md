@@ -32,6 +32,5 @@ I'm also passionate about teaching. I have taught Science and Mathematics to the
 
 Apart from these, I often find myself interested in a couple of civic issues, including the degrading freedom of the internet, inadequate privacy and data laws, and global information inequality, and I'm hoping to do something meaningful in these areas in the near future.
 
-Lastly, you can usually contact me via email. 
 
 
