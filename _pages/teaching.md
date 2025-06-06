@@ -11,7 +11,7 @@ nav_order: 6
 
 1. **Operating Systems | Spring 2025**  
    **Instructor:** Prof. Subhashis Majumder  
-   [Syllabus](/assets/pdf/CS_4710_Syllabus)  
+   [Syllabus](/assets/pdf/CS_4710_Syllabus.pdf)  
    Feedback Score: 5/5  
    - [Assignment 1](/assets/pdf/CS_4710_A1.pdf)  
    - [Assignment 2](/assets/pdf/CS_4710_A2.pdf)  
