@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/resources/";
           },
         },{id: "nav-teaching",
-          title: "Teaching",
+          title: "teaching",
           description: "The list of courses for which I have worked as a TA along with assignments that I had prepared.",
           section: "Navigation",
           handler: () => {
@@ -112,13 +112,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/suraj-sharma-1789", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
