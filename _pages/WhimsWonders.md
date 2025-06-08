@@ -11,4 +11,5 @@ nav_order: 6
 
 2. **The Lonely Shepherd** by André Rieu & Gheorghe Zamfir — a beautiful pan flute and violin performance.  
 [Watch here](https://www.youtube.com/watch?v=orL-w2QBiN8)
+*"So Maybe the life is worth living"* ~ A line from one of my Teaching Fellow.
 
