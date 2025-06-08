@@ -15,7 +15,7 @@ nav_order: 6
    Feedback Score: 5/5  
    - [Assignment 1](/assets/pdf/CS_4710_A1.pdf)  
    - [Assignment 2](/assets/pdf/CS_4710_A2.pdf)  
-   - [Assignment 3](/assets/pdf/CS_4710_A3.pdf)  
+   - [Assignment 3](/assets/pdf/CS_1217_A3.pdf)  
 
 2. **Computer Networks | Monsoon 2024**  
    **Instructor:** Prof. Subhashis Majumder  

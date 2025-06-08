@@ -145,6 +145,9 @@ newsletter:
 collections:
   books:
     output: true
+  news:
+    defaults:
+      layout: post
  
 # -----------------------------------------------------------------------------
 # Jekyll settings
