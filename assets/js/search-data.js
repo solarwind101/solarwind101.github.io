@@ -57,15 +57,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-ll-be-attending-a-summer-school-in-computational-challenges-in-data-privacy-at-iit-delhi-from-july-5-8-2025",
+            },},{id: "news-i-ll-be-attending-a-summer-school-in-computational-challenges-in-data-privacy-at-iit-delhi-from-july-5-8-2025",
           title: 'I’ll be attending a Summer School in Computational Challenges in Data Privacy at...',
           description: "",
           section: "News",},{
