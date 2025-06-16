@@ -10,9 +10,7 @@ nav_order: 6
 ## Books and Papers
 
 1. **Z library** – [https://go-to-library.sk/](https://go-to-library.sk/), [https://z-lib.fm/](https://z-lib.fm/)  
-   A free online digital library with millions of books. The link keeps changing due to legal takedowns.  
-   If the link expires please email me at [suraj.sharma.8062@proton.me](mailto:suraj.sharma.8062@proton.me) and I'll update it.  
-   In read: Do not fall prey to fake websites claiming to be Z-Library. You may check the official link at [https://www.reddit.com/r/zlibrary/](https://www.reddit.com/r/zlibrary/)
+   A free online digital library with millions of books. The link keeps changing due to legal takedowns. Do not fall prey to fake websites claiming to be Z-Library. You may check the official link at [https://www.reddit.com/r/zlibrary/](https://www.reddit.com/r/zlibrary/)
 
 2. **Scihub** – [https://sci-hub.st/about](https://sci-hub.st/about)  
    Sci-Hub is a digital library that provides free access to millions of research papers, regardless of copyright, by bypassing publishers' paywalls.
@@ -38,4 +36,5 @@ nav_order: 6
 
 2. The Subprime AI Crisis
 [https://www.wheresyoured.at/subprimeai/](https://www.wheresyoured.at/subprimeai/)
+
 
