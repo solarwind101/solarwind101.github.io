@@ -27,11 +27,11 @@ announcements:
 
   <p>In Computer Science, my primary interest lies in Computer Networks, Network Security, and the system side of computers, and I'm aiming for a research career in the domain of Network Security.</p>
 
-  <p>Beyond computers, I’ve always been drawn to the humanities. I have some experience with Hindi writing and enjoy reading and exploring existential philosophy.</p>
+  <p>Beyond computers, I’ve always been drawn to the humanities. I have some experience with Hindi writing and occationally enjoy reading and exploring existential philosophy.</p>
 
-  <p>I'm also passionate about teaching. I have taught Science and Mathematics to the students of classes 8-10 at <a href="https://www.iiserkol.ac.in/~ekpehal/pages/aboutUs.html">Ek Pehal, IISER Kolkata</a> and at Neev, the community engagement club of Ashoka University, for some time.</p>
+  <p>I'm also passionate about teaching. I have taught Science and Mathematics to the students of classes K-8 at <a href="https://www.iiserkol.ac.in/~ekpehal/pages/aboutUs.html">Ek Pehal, IISER Kolkata</a> and at Neev, the community engagement club of Ashoka University, for some time.</p>
 
-  <p>Apart from these, I often find myself interested in a couple of civic issues, including the degrading freedom of the internet, inadequate privacy and data laws, and global information inequality, and I'm hoping to do something meaningful in these areas in the near future.</p>
+  <p> Apart from these, I often find myself concerned about several civic issues — such as the increasing restrictions on internet freedom, the inadequacy of privacy and data protection laws, and global information inequality. I'm hoping to do something meaningful in these areas in near future. </p>
 </div>
 
 
