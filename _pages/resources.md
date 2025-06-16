@@ -5,7 +5,6 @@ title: resources
 description: 
 nav: true
 nav_order: 6
-class: page-resources
 ---
 
 ## Books and Papers
