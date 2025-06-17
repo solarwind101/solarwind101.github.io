@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /WhimsWonders/
-title: Whims & Wonders
+title: whims & wonders
 description: Glimpses of Life.
 nav: true
 nav_order: 6
