@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-whims-amp-wonders",
-          title: "Whims &amp; Wonders",
+          title: "whims &amp; wonders",
           description: "Glimpses of Life.",
           section: "Navigation",
           handler: () => {
