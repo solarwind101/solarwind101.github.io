@@ -72,14 +72,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%73%75%72%61%6A.%73%68%61%72%6D%61.%38%30%36%32@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-facebook',
-        title: 'Facebook',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://facebook.com/invencible-it-is", "_blank");
+          window.open("mailto:%73%75%72%61%6A.%73%68%61%72%6D%61.%38%30%36%32@%70%72%6F%74%6F%6E.%6D%65", "_blank");
         },
       },{
         id: 'social-github',
@@ -87,13 +80,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/solarwind101", "_blank");
-        },
-      },{
-        id: 'social-instagram',
-        title: 'Instagram',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://instagram.com/be_rhyme_", "_blank");
         },
       },{
         id: 'social-linkedin',
