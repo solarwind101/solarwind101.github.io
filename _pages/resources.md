@@ -23,7 +23,8 @@ nav_order: 6
   <li>
     <strong>Z library</strong> – 
     <a href="https://z-lib.fm/">https://z-lib.fm/</a><br>
-     <a href="https://go-to-library.sk/">https://go-to-library.sk/</a>
+    <a href="https://z-lib.gl/">https://z-lib.gl/</a><br>
+     <a href="https://go-to-library.sk/">https://go-to-library.sk/</a>,
     A free online digital library with millions of books. 
     <span class="warning">The link keeps changing due to legal takedowns. Do not fall prey to fake websites claiming to be Z-Library.</span> 
     You may check the official link at 
@@ -31,7 +32,7 @@ nav_order: 6
   </li>
   <li>
     <strong>Scihub</strong> – 
-    <a href="https://sci-hub.st/about">https://sci-hub.st/about</a><br>
+    <a href="https://sci-hub.st/">https://sci-hub.st/</a><br>
     Sci-Hub is a digital library that provides free access to millions of research papers.
   </li>
   <li>
@@ -45,7 +46,7 @@ nav_order: 6
 
 <ol>
   <li>
-    A series of essays discussing the judgment of the Supreme Court in <em>Justice Puttaswamy vs Union of India</em>, declaring privacy as a fundamental right.<br>
+    A series of essays discussing the judgment of the Supreme Court in <em>Justice Puttaswamy vs Union of India</em>, that declared privacy as a fundamental right.<br>
     <a href="https://indconlawphil.wordpress.com/2017/09/10/the-supreme-courts-right-to-privacy-judgment-round-up/">https://indconlawphil.wordpress.com/2017/09/10/the-supreme-courts-right-to-privacy-judgment-round-up/</a>
   </li>
   <li>
