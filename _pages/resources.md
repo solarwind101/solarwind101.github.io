@@ -21,20 +21,26 @@ nav_order: 6
 
 <ol>
   <li>
-    <strong>Z library</strong> – 
-    <a href="https://z-lib.fm/">https://z-lib.fm/</a><br>
-    <a href="https://z-lib.gl/">https://z-lib.gl/</a><br>
-     <a href="https://go-to-library.sk/">https://go-to-library.sk/</a>,
-    A free online digital library with millions of books. 
-    <span class="warning">The link keeps changing due to legal takedowns. Do not fall prey to fake websites claiming to be Z-Library.</span> 
-    You may check the official link at 
-    <a href="https://www.reddit.com/r/zlibrary/">https://www.reddit.com/r/zlibrary/</a>
-  </li>
+  
+  <strong>Z Library</strong> – 
+  A free online digital library with millions of books. 
+  Links: 
+  <a href="https://z-lib.fm/">z-lib.fm</a> | 
+  <a href="https://z-lib.gl/">z-lib.gl</a> | 
+  <a href="https://go-to-library.sk/">go-to-library.sk</a>. 
+  <span class="warning">The link keeps changing due to legal takedowns. Do not fall prey to fake websites claiming to be Z-Library.</span> 
+  You may check the official link at 
+  <a href="https://www.reddit.com/r/zlibrary/">https://www.reddit.com/r/zlibrary/</a>
+</li>
+
+ 
   <li>
     <strong>Scihub</strong> – 
     <a href="https://sci-hub.st/">https://sci-hub.st/</a><br>
     Sci-Hub is a digital library that provides free access to millions of research papers.
   </li>
+  
+  
   <li>
     <strong>Internet Archive</strong> – 
     <a href="https://archive.org">https://archive.org</a><br>
@@ -49,6 +55,14 @@ nav_order: 6
     A series of essays discussing the judgment of the Supreme Court in <em>Justice Puttaswamy vs Union of India</em>, that declared privacy as a fundamental right.<br>
     <a href="https://indconlawphil.wordpress.com/2017/09/10/the-supreme-courts-right-to-privacy-judgment-round-up/">https://indconlawphil.wordpress.com/2017/09/10/the-supreme-courts-right-to-privacy-judgment-round-up/</a>
   </li>
+  
+<li>
+  <strong>Privacy Guides</strong> – A socially motivated non-profit website that provides information and recommendations for protecting your data, security, and privacy. 
+  Start here: <a href="https://www.privacyguides.org/en/basics/why-privacy-matters/">Why Privacy Matters</a> | 
+  <a href="https://www.reddit.com/r/PrivacyGuides/">Reddit page</a>
+</li>
+
+
   <li>
     Digital Personal Data Protection Act, 2023: A Missed Opportunity For Horizontal Equality.<br>
     <a href="https://www.scobserver.in/journal/digital-personal-data-protection-act-2023-a-missed-opportunity-for-horizontal-equality/">https://www.scobserver.in/journal/digital-personal-data-protection-act-2023-a-missed-opportunity-for-horizontal-equality/</a>
@@ -62,6 +76,7 @@ nav_order: 6
 <h2>Miscellaneous</h2>
 
 <ol>
+
   <li>
     AI: The Symptom of a Deeper Creative Crisis<br>
     <a href="https://www.production-expert.com/production-expert-1/ai-the-symptom-of-a-deeper-creative-crisis">https://www.production-expert.com/production-expert-1/ai-the-symptom-of-a-deeper-creative-crisis</a>
