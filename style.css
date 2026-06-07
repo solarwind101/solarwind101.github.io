@@ -1,0 +1,270 @@
+:root {
+  --bg: #1a1814;
+  --surface: #201e1b;
+  --text: #d0cdc8;
+  --muted: #7a7570;
+  --link: #c4a882;
+  --border: #2e2b27;
+  --max: 680px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  padding: 3.5rem 1.5rem 5rem;
+  max-width: var(--max);
+  margin: 0 auto;
+}
+
+/* ── Navigation ── */
+nav {
+  margin-bottom: 3.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem 0;
+}
+
+nav a {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.85rem;
+  color: var(--muted);
+  text-decoration: none;
+  letter-spacing: 0.03em;
+}
+
+nav a:hover,
+nav a.active {
+  color: var(--text);
+}
+
+nav span {
+  color: var(--border);
+  margin: 0 0.6rem;
+  font-family: monospace;
+}
+
+/* ── Headings ── */
+h1 {
+  font-size: 1.35rem;
+  font-weight: normal;
+  margin-bottom: 1.25rem;
+  color: var(--text);
+}
+
+h2 {
+  font-size: 0.78rem;
+  font-weight: normal;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 2.5rem 0 0.9rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+
+h4 {
+  font-size: 0.9rem;
+  font-weight: normal;
+  color: var(--muted);
+  font-family: monospace;
+  margin: 2rem 0 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+/* ── Text ── */
+p {
+  color: #bfbbb5;
+  margin-bottom: 1rem;
+  text-align: justify;
+}
+
+em {
+  color: var(--muted);
+  font-style: italic;
+}
+
+strong {
+  color: var(--text);
+  font-weight: bold;
+}
+
+blockquote {
+  border-left: 2px solid var(--border);
+  padding-left: 1.2rem;
+  margin: 1.5rem 0;
+  color: var(--muted);
+  font-style: italic;
+  line-height: 1.9;
+}
+
+blockquote p {
+  color: var(--muted);
+  margin-bottom: 0;
+}
+
+/* ── Links ── */
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* ── Lists ── */
+ol, ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+li {
+  margin-bottom: 1.1rem;
+  padding-left: 1.4rem;
+  position: relative;
+  color: #bfbbb5;
+}
+
+li::before {
+  position: absolute;
+  left: 0;
+  color: var(--muted);
+  font-family: monospace;
+}
+
+ol { counter-reset: item; }
+ol li { counter-increment: item; }
+ol li::before { content: counter(item) "."; font-size: 0.85rem; top: 0.1rem; }
+
+ul li::before { content: "-"; }
+
+/* ── Divider ── */
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+/* ── News / date items ── */
+.news-item {
+  display: flex;
+  gap: 1.2rem;
+  margin-bottom: 0.9rem;
+  align-items: baseline;
+}
+
+.date {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.8rem;
+  color: var(--muted);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.news-text {
+  color: #bfbbb5;
+  font-size: 0.98rem;
+}
+
+/* ── Jump links ── */
+.jump-links {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.85rem;
+  margin-bottom: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem;
+}
+
+.jump-links a {
+  color: var(--muted);
+}
+
+.jump-links a:hover {
+  color: var(--text);
+  text-decoration: none;
+}
+
+/* ── Contact line ── */
+.contact {
+  margin-top: 1.5rem;
+  font-family: monospace;
+  font-size: 0.85rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem;
+}
+
+.contact a {
+  color: var(--muted);
+}
+
+.contact a:hover {
+  color: var(--text);
+  text-decoration: none;
+}
+
+.contact span {
+  color: var(--border);
+}
+
+/* ── Teaching ── */
+.course {
+  margin-bottom: 1.8rem;
+  padding-left: 1.4rem;
+  border-left: 2px solid var(--border);
+}
+
+.course-title {
+  color: var(--text);
+  font-size: 1rem;
+  margin-bottom: 0.15rem;
+}
+
+.course-meta {
+  font-size: 0.85rem;
+  color: var(--muted);
+  font-family: monospace;
+  margin-bottom: 0.4rem;
+}
+
+.course-links {
+  font-size: 0.85rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+
+/* ── Warning ── */
+.warning {
+  color: #c4876a;
+  font-size: 0.88rem;
+}
+
+/* ── Footer ── */
+footer {
+  margin-top: 5rem;
+  font-family: monospace;
+  font-size: 0.75rem;
+  color: var(--border);
+}
