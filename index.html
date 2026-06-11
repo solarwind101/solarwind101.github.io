@@ -9,13 +9,21 @@
 <body>
 
   <nav>
-    <a href="index.html" class="active">about</a>
-    <span>/</span>
-    <a href="resources.html">resources</a>
-    <span>/</span>
-    <a href="teaching.html">teaching</a>
-    <span>/</span>
-    <a href="whims.html">whims&nbsp;&amp;&nbsp;wonders</a>
+    <div class="nav-links">
+      <a href="index.html" class="active">about</a>
+      <span>/</span>
+      <a href="resources.html">resources</a>
+      <span>/</span>
+      <a href="teaching.html">teaching</a>
+      <span>/</span>
+      <a href="contact.html">contact</a>
+      <span>/</span>
+      <a href="whims.html">whims&nbsp;&amp;&nbsp;wonders</a>
+    </div>
+    <div class="nav-right">
+      <button id="theme-toggle">[day]</button>
+      <span class="site-notice">not updated regularly · maintainer is forgetful :)</span>
+    </div>
   </nav>
 
   <main>
@@ -25,15 +33,16 @@
       <a href="#about">about me</a>
       <span> · </span>
       <a href="#publications">publications</a>
+       <span> · </span>
+      <a href="#contact"> contact </a>
     </div>
 
     <p id="about">
       Hi there, thank you for visiting. I'm a recent graduate from
       <a href="https://www.ashoka.edu.in/">Ashoka University</a>
-      with an advanced major in Computer Science. Before Ashoka, I completed two
-      years of foundational education in natural science under the BS-MS program
-      at IISER Kolkata, and later joined Ashoka due to my growing interest in
-      computer science.
+      with an advanced major in Computer Science. Before Ashoka, I was enrolled
+      in the BS-MS program at IISER Kolkata and later joined Ashoka due to a
+      growing interest in computer science.
     </p>
 
     <p>
@@ -50,7 +59,7 @@
 
     <p>
       I'm also passionate about teaching. I have taught Science and Mathematics to
-      students of classes K–8 at
+      students of classes K-8 at
       <a href="https://www.iiserkol.ac.in/~ekpehal/pages/aboutUs.html">Ek Pehal,
       IISER Kolkata</a> and at Neev, the community engagement club of Ashoka
       University.
@@ -65,13 +74,17 @@
     <h2 id="publications">publications</h2>
     <ul>
       <li>
-        <strong>Private IP Address Inference in NAT Networks via Off-Path TCP Control-Plane Attack</strong><br>
-        <strong>Suraj Sharma</strong>, Adityavir Singh, Mahabir Prasad Jhanwar<br>
-        Cryptology ePrint Archive, Paper 2026/149 · 2026<br>
-        <a href="https://eprint.iacr.org/2026/149">eprint.iacr.org/2026/149</a>
+        <p class="citation">
+          <span class="self">S. Sharma</span>, A. Singh, and M. P. Jhanwar,
+          "Private IP Address Inference in NAT Networks via Off-Path TCP
+          Control-Plane Attack,"
+          <em>Cryptology ePrint Archive</em>, Paper 2026/149, 2026.
+          <a href="https://eprint.iacr.org/2026/149">[eprint]</a>
+        </p>
       </li>
     </ul>
-
+    
+<h2 id="contact"> contact </h2>
     <div class="contact">
       <span>suraj.sharma.8062 [at] proton.me</span>
       <span> · </span>
@@ -83,5 +96,6 @@
 
   <footer>solarwind101.github.io</footer>
 
+  <script src="twilight.js"></script>
 </body>
 </html>
